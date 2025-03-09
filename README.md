@@ -1,5 +1,4 @@
 # SpeakEasy-Translator
-# Language Translator App
 
 A lightweight **Language Translator App** built using Python, Streamlit, and several supporting libraries. This application translates text into multiple languages using a wrapper around the Google Translate API and provides an audio output via Google's Text-to-Speech (gTTS) engine.
 
